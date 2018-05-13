@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\bin\Debug\mathhelper.exe.config
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\bin\Debug\mathhelper.exe
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\bin\Debug\mathhelper.pdb
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.Form1.resources
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.Form2.resources
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.Help.resources
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.Properties.Resources.resources
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.exe
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.pdb
