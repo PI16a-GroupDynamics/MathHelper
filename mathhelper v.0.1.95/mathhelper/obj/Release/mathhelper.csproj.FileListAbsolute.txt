@@ -1,0 +1,17 @@
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Release\mathheper.db
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Release\mathhelper.exe.config
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Release\mathhelper.exe
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Release\mathhelper.pdb
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Release\System.Data.SQLite.dll
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.admin.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.changelog.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.Form1.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.Form2.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.Help.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.journal.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.Properties.Resources.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.csproj.GenerateResource.cache
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.csproj.CoreCompileInputs.cache
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.csproj.CopyComplete
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.exe
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Release\mathhelper.pdb
