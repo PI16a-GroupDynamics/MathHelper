@@ -1,0 +1,31 @@
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\bin\Debug\mathhelper.exe.config
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\bin\Debug\mathhelper.exe
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\bin\Debug\mathhelper.pdb
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.Form1.resources
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.Form2.resources
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.Help.resources
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.Properties.Resources.resources
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.exe
+C:\Users\1\Desktop\ДА, ЭТО ПАПКА\для учебы\Lannica's projects\mathhelper\mathhelper\obj\Debug\mathhelper.pdb
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Debug\mathhelper.exe.config
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Debug\mathhelper.exe
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Debug\mathhelper.pdb
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.csprojAssemblyReference.cache
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.Form1.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.Form2.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.Help.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.Properties.Resources.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.csproj.GenerateResource.cache
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.csproj.CoreCompileInputs.cache
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.exe
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.pdb
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.journal.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.admin.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.csproj.CopyComplete
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Debug\mathheper.db
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\obj\Debug\mathhelper.changelog.resources
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Debug\GemBox.Document.dll
+C:\Users\Lannica\Desktop\mathhelper\mathhelper\bin\Debug\GemBox.Document.xml
